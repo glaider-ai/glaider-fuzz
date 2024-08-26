@@ -1,0 +1,9 @@
+venv
+.env
+__pycache__
+*.egg-info/
+glaider-fuzzer.log
+.glaider-fuzzer-config.json
+.pytest_cache
+build/
+dist/
